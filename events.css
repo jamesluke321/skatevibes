@@ -89,3 +89,11 @@ body {
       width: 100%;
     }
   }
+.site-footer {
+  background-color: #000; 
+  color: #fff;           
+  text-align: center;
+  padding: 20px 0;
+  font-family: 'Arial', sans-serif;
+  font-size: 14px;
+}
