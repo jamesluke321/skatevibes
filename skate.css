@@ -129,6 +129,7 @@ nav {
 }
 .site-footer {
   background-color: #000; 
+  border-color: red;
   color: #fff;           
   text-align: center;
   padding: 20px 0;
